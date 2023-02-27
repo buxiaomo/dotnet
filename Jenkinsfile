@@ -15,7 +15,7 @@ pipeline {
         XDG_DATA_HOME   = "/tmp"
 
         SONAR_HOST_URL = "http://172.16.115.11:32583"
-        SONAR_LOGIN = "sqp_ceb96c869679965251ce40222d6963220f47dd35"
+        SONAR_LOGIN = "sqp_3fac972e8f416151a10a20d4019eac8281e48ee9"
     }
 
     options {
