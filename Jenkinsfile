@@ -14,7 +14,7 @@ pipeline {
         DOTNET_CLI_HOME = "/tmp"
         XDG_DATA_HOME   = "/tmp"
 
-        SONAR_HOST_URL = "http://172.16.115.11:32583"
+        SONAR_HOST_URL = "http://172.16.115.11:31432"
         SONAR_LOGIN = "sqp_3fac972e8f416151a10a20d4019eac8281e48ee9"
     }
 
